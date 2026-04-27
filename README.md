@@ -17,7 +17,7 @@ I'm a passionate Frontend Developer from Chittagong, Bangladesh. I love building
 - 🚀 Currently exploring **Next.js** and modern React patterns
 - 🌱 Open to collaborating on interesting frontend projects
 - 📍 Based in Chittagong, Bangladesh
-- 📧 Reach me at: shahadat.hosen.noyon.01@gmail.com
+- 📧 Reach me at: **shahadat.hosen.noyon.01@gmail.com**
 
 ---
 
